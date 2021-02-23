@@ -1,3 +1,4 @@
+#Event logging enabled on console log, and also available in application.log file in app path
 
 #Basic operations
 
@@ -10,3 +11,4 @@
 /api/orders (POST)	Creates an order with given order details
 
 /api/orders (DELETE)	Cancels an order
+
